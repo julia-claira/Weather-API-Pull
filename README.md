@@ -8,7 +8,8 @@ The first objective is to build a series of scatter plots to showcase the follow
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
+<img src="https://github.com/julia-claira/Weather-API-Pull/blob/main/output_data/fig6_linear_S_city_lat_vs_max_temp.png">
+
 The next objective is to run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). 
 
-### Part II - VacationPy:
-Pulled weather data from Google Places API. Generated a heatmap displaying the humidity for every city from part I.This is further narrowed down to find ideal weather condition.Using Google Places API is used to find the first hotel for each city located within 5000 meters of selected coordinates.Finally, the hotels are plotted on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**. 
+<img src="https://github.com/julia-claira/Weather-API-Pull/blob/main/output_data/fig12_linear_N_city_lat_vs_wind_speed.png">
