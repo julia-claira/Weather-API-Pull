@@ -1,7 +1,7 @@
 # Weather-API-Pull: Analyzes equator impact on weather patterns in northern and southern hemispheres 
 
 ### Part I - WeatherPy:
-The aim is to create a representative model of weather across world (500+) cities.The Python script utilizes python library, citypy,  makes API calls to OpenWeatherMap to retrieve weather data. 
+Creates a representative model of weather across world (500+) cities. The Python script utilizes python library, citypy, makes API calls to OpenWeatherMap to retrieve weather data. 
 
 <img src="https://github.com/julia-claira/Weather-API-Pull/blob/main/output_data/fig6_linear_S_city_lat_vs_max_temp.png">
 
